@@ -1,0 +1,269 @@
+AK	1	AK	1
+AL	2	AL	2
+		MS	26
+		TN	43
+		GA	11
+		FL	10
+AR	3	AR	3
+		MO	25
+		TN	43
+		MS	26
+		LA	19
+		TX	44
+		OK	37
+AZ	4	AZ	4
+		CA	5
+		NV	34
+		UT	45
+		CO	6
+		NM	33
+CA	5	CA	5
+		OR	38
+		NV	34
+		AZ	4
+CO	6	CO	6
+		WY	51
+		NE	30
+		KS	17
+		OK	37
+		NM	33
+		AZ	4
+		UT	45
+CT	7	CT	7
+		NY	35
+		MA	20
+		RI	40
+DC	8	DC	8
+		MD	21
+		VA	46
+DE	9	DE	9
+		MD	21
+		PA	39
+		NJ	32
+FL	10	FL	10
+		AL	2
+		GA	11
+GA	11	GA	11
+		FL	10
+		AL	2
+		TN	43
+		NC	28
+		SC	41
+HI	12	HI	12
+IA	13	IA	13
+		MN	24
+		WI	49
+		IL	15
+		MO	25
+		NE	30
+		SD	42
+ID	14	ID	14
+		MT	27
+		WY	51
+		UT	45
+		NV	34
+		OR	38
+		WA	48
+IL	15	IL	15
+		IN	16
+		KY	18
+		MO	25
+		IA	13
+		WI	49
+IN	16	IN	16
+		MI	23
+		OH	36
+		KY	18
+		IL	15
+KS	17	KS	17
+		NE	30
+		MO	25
+		OK	37
+		CO	6
+KY	18	KY	18
+		IN	16
+		OH	36
+		WV	50
+		VA	46
+		TN	43
+		MO	25
+		IL	15
+LA	19	LA	19
+		TX	44
+		AR	3
+		MS	26
+MA	20	MA	20
+		RI	40
+		CT	7
+		NY	35
+		NH	31
+		VT	47
+MD	21	MD	21
+		VA	46
+		WV	50
+		PA	39
+		DC	8
+		DE	9
+ME	22	ME	22
+		NH	31
+MI	23	MI	23
+		WI	49
+		IN	16
+		OH	36
+MN	24	MN	24
+		WI	49
+		IA	13
+		SD	42
+		ND	29
+MO	25	MO	25
+		IA	13
+		IL	15
+		KY	18
+		TN	43
+		AR	3
+		OK	37
+		KS	17
+		NE	30
+MS	26	MS	26
+		LA	19
+		AR	3
+		TN	43
+		AL	2
+MT	27	MT	27
+		ND	29
+		SD	42
+		WY	51
+		ID	14
+NC	28	NC	28
+		VA	46
+		TN	43
+		GA	11
+		SC	41
+ND	29	ND	29
+		MN	24
+		SD	42
+		MT	27
+NE	30	NE	30
+		SD	42
+		IA	13
+		MO	25
+		KS	17
+		CO	6
+		WY	51
+NH	31	NH	31
+		VT	47
+		ME	22
+		MA	20
+NJ	32	NJ	32
+		DE	9
+		PA	39
+		NY	35
+NM	33	NM	33
+		AZ	4
+		UT	45
+		CO	6
+		OK	37
+		TX	44
+NV	34	NV	34
+		ID	14
+		UT	45
+		AZ	4
+		CA	5
+		OR	38
+NY	35	NY	35
+		NJ	32
+		PA	39
+		VT	47
+		MA	20
+		CT	7
+OH	36	OH	36
+		PA	39
+		WV	50
+		KY	18
+		IN	16
+		MI	23
+OK	37	OK	37
+		KS	17
+		MO	25
+		AR	3
+		TX	44
+		NM	33
+		CO	6
+OR	38	OR	38
+		CA	5
+		NV	34
+		ID	14
+		WA	48
+PA	39	PA	39
+		NY	35
+		NJ	32
+		DE	9
+		MD	21
+		WV	50
+		OH	36
+RI	40	RI	40
+		CT	7
+		MA	20
+SC	41	SC	41
+		GA	11
+		NC	28
+SD	42	SD	42
+		ND	29
+		MN	24
+		IA	13
+		NE	30
+		WY	51
+		MT	27
+TN	43	TN	43
+		KY	18
+		VA	46
+		NC	28
+		GA	11
+		AL	2
+		MS	26
+		AR	3
+		MO	25
+TX	44	TX	44
+		NM	33
+		OK	37
+		AR	3
+		LA	19
+UT	45	UT	45
+		ID	14
+		WY	51
+		CO	6
+		NM	33
+		AZ	4
+		NV	34
+VA	46	VA	46
+		NC	28
+		TN	43
+		KY	18
+		WV	50
+		MD	21
+		DC	8
+VT	47	VT	47
+		NY	35
+		NH	31
+		MA	20
+WA	48	WA	48
+		ID	14
+		OR	38
+WI	49	WI	49
+		MI	23
+		MN	24
+		IA	13
+		IL	15
+WV	50	WV	50
+		OH	36
+		PA	39
+		MD	21
+		VA	46
+		KY	18
+WY	51	WY	51
+		MT	27
+		SD	42
+		NE	30
+		CO	6
+		UT	45
+		ID	14
